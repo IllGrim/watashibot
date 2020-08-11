@@ -1,0 +1,2 @@
+# watashibot
+Discord Bot
